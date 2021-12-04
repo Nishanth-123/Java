@@ -1,0 +1,92 @@
+1. What is Java?
+2. What is Core Java?
+3. What is the latest version of Java?
+4. What is JVM?
+5. How does a bytecode run in JAVA?
+6. What is Thread in Java?
+7. Why do we declare Main as Static?
+8. What is Super Keyword in JAVA and Where to use it?
+9. When a subclass has only parameterized constructor and a superclass does not have a matching constructor, What will happen?
+10. Explain Public Static Void Main (String args[]).
+11. What are Constructors in Java?
+12. What do you understand by a Wrapper class?
+13. Explain the local variable and instance variable?
+14. Why JAVA is a statically typed language?
+15. What is Java Runtime Environment(JRE)?
+16. What is Package in JAVA?
+17. What is the Java language programming platform?
+18. What are the components of JVM?
+19. Name all Java Programming language platforms.
+20. What are the components that a Java Platform consists of?
+21. What is Java Virtual Machine?
+22. What is an API?
+23. What is Java EE?
+24. What is Java ME?
+25. What is JavaFX?
+26.Difference Between JVM, JDK, JRE
+27.Is JRE alone is used to run the program?
+28.What is JDK and which JDK tools you have used apart from IDE’s?
+29.What is Garbage Collection in java?
+30.What is Heap Memory in Java?
+31.Memory Storage in java?
+32.What is Overloading Vs Overriding?
+33.Method Overloading, Class Overloading.
+34.Overloading of Static Methods, Static Class, FInal Method, Final Class.
+35.Can Variable be overloaded? Static & Final Variables overloading.
+36.Class Variable, Instance Variable, Local Variable, Static Variable, Final variable.
+37.Type Conversion in Overloading.
+38.Method Overriding, Class Overriding.
+39.Dynamic Dispatch Polymorphism.
+40.Purpose of Using BufferedInputStream & BufferedOutputStream.
+41.What is Serialization?
+42.What is Externalizable?
+43.What is a Native Method?
+44.Which kind of thread is the garbage collector thread?
+45.Regular Expression: Validate Password, Phone, Email.
+46.Java Conversion of Into to String, Int to Long, String to Int, String to Long, Double, String to Date, Date to String, etc.
+47.Java Util Date Methods, Java SQL Date. Jakarta Date. Java Calendar, Java TimeZone.
+48.Formatting & Parsing of String, Date.
+49.File Handling in Java, Java I/O, Scanner, FileInput/Output, File Reader/Writer, CharArray Reader/Writer.
+50.What is a Fully Encapsulated Class, how to create it?
+51.Object Cloning in Java.
+52.Usage of this & super keyword in constructor, method.
+53.Difference between Coupling & Cohesion.
+54.Different types of Association in Java.
+55.Aggregation Vs Composition.
+56.How is the Covariant return type is implemented?
+57.Difference between Static & Dynamic Binding.
+58.Java instance Operator.
+59.Interface Vs Abstract.
+60.Different types of Access Modifiers in Java & Usage.
+61.Wrapper Classes.
+62.Strcitfp.
+63.Call By Value, Call By Reference
+64.What happens when we don’t catch the exception.
+65.Throw & Throws Keyword.
+66.Exception Types. Difference between Compile time & run time exception.
+67.How to catch different types of exceptions.
+68.Exception Propagation in Child & Parent Class.
+69.Autoboxing
+70..intern()
+71.Create an immutable class with DateTime, modify the immutable class.
+72.Why CharArray is preferred over String to store the password. Its impact on threads.
+73.IO Streams, Difference between Reader/Writer Class & Input/Output Stream class.
+74.Final Keyword: Variable, method, Class, Constructor. It’s impact on Overloading & overriding and how the class object can use. FInal variables are being most tricky questions, so better prepare each aspect of the Final Keyword.
+75.Static Keyword: Variables, Blocks, Methods, Nested Class, Class. The static keyword is being used at many places and for interviews, this is the most important part of Core Java.
+76.Nested/Inner Class: Local Inner Class, Annonymous Inner Class, Static Nested Class. In the Anonymous Inner class, thread questions are asked, runnable, how you can create an anonymous class, anonymous inner class.
+77.Abstract Keyword: Class, Method, Constructor in Abstract Class, Object of Abstract Class, Instance of Abstract Class, Abstract Method Overriding & Overloading.
+78.Interface: Methods in interface, default methods use in the interface in java 8, the constructor in an interface, Instance of the interface.
+79.Difference Between Interface & Abstract.
+80.Encapsulation: How Encapsulation can be achieved, why we use encapsulation.
+81.Java Beans.
+82.Functional Interface: Usage of functional Interface, which is a purely functional interface, how can you create the functional interface. What is an Inbuilt Functional Interface? What are Predicates?
+83.Diamond Problem in Java, How to solve the diamond problem.
+84.Volatile & Transient Keyword. Usage, difference, and when to use.
+85.String: String Literal, why string is immutable, Where it is stored, how to make it mutable. Some Questions on overloading, overriding and input-output.
+86.String Buffer, String Builder.
+87.Lambda Expression: Create a lambda expression, how to use a lambda expression, why we use a lambda expression, create a generic Lambda expression. Lambda Expression with the program of a sum of two numbers.
+88.Streams: In Java 8 there is the functionality of Stream, many questions will be asked on this. How to use stream, with filter, collections, map, collect. When to use stream.
+89.Optional: This is also a java 8 feature, it is used to handle Null Pointer.
+90.Final, Finally, Finalize. Difference between them.
+91.Finally, usage program with return in the try, catch, and finally blocks. you will get a program where there would be 3 return statements in the try, catch & finally, and upon that questions would be asked. No Matter what finally block will always execute, then how the return statement is executed when an exception occurs and when the exception doesn’t occur.
+92.Try, Catch, Finally Block Usage.
